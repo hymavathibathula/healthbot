@@ -287,7 +287,7 @@ Vaccines are available for animal coronaviruses IBV, TGEV, and Canine CoV, altho
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/113038805/196642159-0209173e-dde0-4722-b45c-58e1c5dc5848.png)
 
-![Screenshot (9)](https://user-images.githubusercontent.com/113038805/196642217-60ad0577-b168-422d-ab19-372a3f76c16c.png)
+
 
 
 
